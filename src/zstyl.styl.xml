@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_STYL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <STYLE>
+    <HEADER>
+     <TDSTYLE>ZSTYL</TDSTYLE>
+     <TDSPRAS>E</TDSPRAS>
+     <TDOSPRAS>E</TDOSPRAS>
+     <TDTEXT>Test SAPScript Style</TDTEXT>
+     <TDFIRSTPAR>A1</TDFIRSTPAR>
+    </HEADER>
+    <PARAGRAPHS>
+     <ITCDP>
+      <TDPARGRAPH>A1</TDPARGRAPH>
+      <TDTEXT>Left Aligned with Margins</TDTEXT>
+      <TDPJUSTIFY>LEFT</TDPJUSTIFY>
+      <TDPLDIST>1.0</TDPLDIST>
+      <TDPLDISTU>LN</TDPLDISTU>
+      <TDPTOP>2.0</TDPTOP>
+      <TDPTOPU>CM</TDPTOPU>
+      <TDPBOT>1.0</TDPBOT>
+      <TDPBOTU>CM</TDPBOTU>
+      <TDPLEFT>1.0</TDPLEFT>
+      <TDPLEFTU>CM</TDPLEFTU>
+      <TDPRIGHT>1.0</TDPRIGHT>
+      <TDPRIGHTU>CM</TDPRIGHTU>
+      <TDPENTRY>2.0</TDPENTRY>
+      <TDPENTRYU>CM</TDPENTRYU>
+      <TDNUMLEFTU>CM</TDNUMLEFTU>
+      <TDNUMBERIN>CHAR</TDNUMBERIN>
+      <TDBOLD>*</TDBOLD>
+      <TDITALIC>*</TDITALIC>
+      <TDCAPS>*</TDCAPS>
+      <TDUNDERLIN>*</TDUNDERLIN>
+     </ITCDP>
+    </PARAGRAPHS>
+    <STRINGS>
+     <ITCDS>
+      <TDSTRING>C1</TDSTRING>
+      <TDTEXT>Character Style Bold</TDTEXT>
+      <TDMARK>*</TDMARK>
+      <TDSUPER>*</TDSUPER>
+      <TDSUB>*</TDSUB>
+      <TDHIDDEN>*</TDHIDDEN>
+      <TDPROTLINE>*</TDPROTLINE>
+      <TDFAMILY>COURIER</TDFAMILY>
+      <TDHEIGHT>120</TDHEIGHT>
+      <TDBOLD>X</TDBOLD>
+      <TDITALIC>*</TDITALIC>
+      <TDCAPS>*</TDCAPS>
+      <TDUNDERLIN>*</TDUNDERLIN>
+      <TDDEFFAM>COURIER</TDDEFFAM>
+      <TDDEFHGHT>120</TDDEFHGHT>
+     </ITCDS>
+     <ITCDS>
+      <TDSTRING>C2</TDSTRING>
+      <TDTEXT>Character Style Italic</TDTEXT>
+      <TDSUPER>*</TDSUPER>
+      <TDSUB>*</TDSUB>
+      <TDHIDDEN>*</TDHIDDEN>
+      <TDPROTLINE>*</TDPROTLINE>
+      <TDFAMILY>COURIER</TDFAMILY>
+      <TDHEIGHT>120</TDHEIGHT>
+      <TDBOLD>*</TDBOLD>
+      <TDITALIC>X</TDITALIC>
+      <TDCAPS>*</TDCAPS>
+      <TDUNDERLIN>*</TDUNDERLIN>
+      <TDDEFFAM>COURIER</TDDEFFAM>
+      <TDDEFHGHT>120</TDDEFHGHT>
+     </ITCDS>
+    </STRINGS>
+   </STYLE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
